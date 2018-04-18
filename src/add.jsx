@@ -31,7 +31,7 @@ export default class Add extends React.Component{
          <div className={priorityStyle} >
                 <div className='panel-body'>
                 <div className="form-group">
-                  <label htmlFor="comment">Edit Descriptio:</label>
+                  <label htmlFor="comment">Edit Description:</label>
                   <textarea className='form-control update-todo-text'
                             name ='todo'
                             rows='5'
